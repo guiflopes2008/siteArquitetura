@@ -1,5 +1,39 @@
+/* CSS HEX */
+/* --timberwolf: #d6d6d6ff;
+--aureolin: #ffee32ff;
+--jonquil: #ffd100ff;
+--eerie-black: #202020ff;
+--jet: #333533ff; */
+
+body{
+    background-color:#202020 ;
+
+}
+
 img{
     width: 300px;
     border: 5px solid black;
     border-radius: 10px
 }
+h1{
+    color: #FFD100
+        
+        }
+        h2{
+            
+            
+        color:#FFD100
+        }
+        h3{
+            color:#FFD100
+            }
+            h4{
+                color: #FFD100
+                }
+                p{
+                    color:#D6D6D6
+                }
+                a{
+                    color:#FFEE32
+                }
+                
